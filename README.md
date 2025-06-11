@@ -1,4 +1,4 @@
-🎮 Simon Game
+#🎮 Simon Game
 A fun memory game built using HTML, CSS, JavaScript, and the jQuery library to keep the code short and clean.
 
 🔧 Features:
