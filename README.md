@@ -1,28 +1,48 @@
-#Simon Game 
+# 🧠 Simon Game – Memory Challenge
 
-A Classic Memory Challenge An interactive web-based Simon Game that tests your memory by generating color sequences you must repeat. Built with HTML, CSS, and JavaScript, and enhanced with the jQuery library to simplify DOM manipulation and event handling.
+This is a classic **Simon Game** built using **HTML, CSS, and JavaScript**, with the help of the **jQuery** library to simplify and shorten the code.
 
+In this game, players must repeat an increasingly long sequence of colors to test their memory. The game generates a random pattern and the player has to follow it accurately — one mistake, and it’s game over!
 
-🎮 Simon Game
-A fun memory game built using HTML, CSS, JavaScript, and the jQuery library to keep the code short and clean.
+---
 
-🔧 Features:
-Generates a random color sequence
+### ✨ Features:
+- 🎨 Interactive UI with visual and sound feedback  
+- 🔁 Pattern generation with increasing difficulty  
+- 💡 Responsive button animations and game restart option  
+- 🧩 Uses jQuery for cleaner DOM manipulation and event handling  
 
-User must repeat the pattern
+---
 
-Interactive sound effects and animations
+### 🚀 How to Play:
+- Press **any key** to start the game.  
+- Watch the **sequence of lights and sounds** carefully.  
+- Click the buttons in the **same order** as shown.  
+- The pattern gets **longer with each round** — test your memory!  
+- After **Game Over**, press **any key** again to **restart**.
 
-Fully responsive design
+---
 
-🚀 How to Play:
-Press any key to start.
+### 🚀 Live Demo:
+**👉 [Click here to play the game](https://nareshshri23.github.io/Simon-Game/)**  
+*(Hosted using GitHub Pages)*
 
-Watch the sequence of lights.
+---
 
-Click the buttons in the same order.
+### 🛠️ Technologies Used:
+- HTML5 & CSS3  
+- JavaScript (with jQuery)  
+- GitHub Pages for deployment  
 
-The pattern gets longer each round!
+---
 
-
-Made with ❤️ using JavaScript and jQuery.
+### 📂 Folder Structure:
+├── index.html
+├── styles.css
+├── game.js
+├── sounds/
+│ ├── blue.mp3
+│ ├── green.mp3
+│ ├── red.mp3
+│ ├── wrong.mp3
+│ └── yellow.mp3
